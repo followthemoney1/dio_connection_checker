@@ -1,6 +1,6 @@
 name: dio_connection_checker
 description: Framework-agnostic Dio-based internet connection checker that uses real API request outcomes instead of OS network state.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/followthemoney1/dio_connection_checker
 
 environment:

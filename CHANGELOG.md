@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Fixed package structure - moved files to lib/ directory to make imports visible
+
 ## 1.0.0
 
 * Initial release

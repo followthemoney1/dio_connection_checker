@@ -27,6 +27,6 @@
 /// ```
 library dio_connection_checker;
 
-export 'lib/src/connection_status.dart';
-export 'lib/src/connection_manager.dart';
-export 'lib/src/connection_status_interceptor.dart';
+export 'src/connection_status.dart';
+export 'src/connection_manager.dart';
+export 'src/connection_status_interceptor.dart';
