@@ -129,7 +129,7 @@
     },
     {
       "name": "rxdart",
-      "rootUri": "file:///Users/dmitrydyachenko/.pub-cache/hosted/pub.dev/rxdart-0.27.7",
+      "rootUri": "file:///Users/dmitrydyachenko/.pub-cache/hosted/pub.dev/rxdart-0.28.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -207,8 +207,8 @@
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.10.4",
+  "generatorVersion": "3.10.7",
   "flutterRoot": "file:///Users/dmitrydyachenko/fvm/versions/stable",
-  "flutterVersion": "3.38.5",
+  "flutterVersion": "3.38.8",
   "pubCache": "file:///Users/dmitrydyachenko/.pub-cache"
 }

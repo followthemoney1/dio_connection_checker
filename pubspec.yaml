@@ -1,6 +1,6 @@
 name: dio_connection_checker
 description: Framework-agnostic Dio-based internet connection checker that uses real API request outcomes instead of OS network state.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/followthemoney1/dio_connection_checker
 
 environment:
@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   dio: ^5.0.0
-  rxdart: ^0.27.0
+  rxdart: ^0.28.0
 
 dev_dependencies:
   flutter_test:

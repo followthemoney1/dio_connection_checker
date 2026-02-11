@@ -5,7 +5,7 @@
   "packages": [
     {
       "name": "dio_connection_checker",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "dependencies": [
         "dio",
         "rxdart"
@@ -42,7 +42,7 @@
     },
     {
       "name": "rxdart",
-      "version": "0.27.7",
+      "version": "0.28.0",
       "dependencies": []
     },
     {
