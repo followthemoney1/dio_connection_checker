@@ -1,3 +1,7 @@
+## 1.0.2
+
+* Package maintenance and cleanup
+
 ## 1.0.1
 
 * Fixed package structure - moved files to lib/ directory to make imports visible
